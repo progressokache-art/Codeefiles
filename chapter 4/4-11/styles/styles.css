@@ -1,0 +1,60 @@
+/*Progress Okache*/
+.size{
+    height:180px;
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+header{
+    font-size:110%;
+}
+.float{
+    float:left;
+}
+.clear{
+       clear:both;
+}
+body{
+    background-color:#e9e266;
+}
+header{
+    background-color:#abafa1;
+}
+footer{
+    text-align:center;
+}
+.fancy{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+a{
+    color:rgb(0,0,0)
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    color:orange;
+    font-weight:bold;
+    font-size:125%;
+}
+p:first-letter{
+    color:purple;
+    font-size:200%;
+}
+body{
+    line-height: 1.5em;
+    background-image: url(../images/rain.jpg);
+   background-repeat:none;
+   background-size:cover;
+}
+ img{
+    border-radius:20px;
+}
+h1{
+    box-shadow:4px 4px 5px rgb(21, 21, 148);
+}
+img {
+  opacity: 0.5;
+}

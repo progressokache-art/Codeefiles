@@ -1,0 +1,50 @@
+.green{
+    color:#177c0d
+}
+.line{
+    text-decoration:underline;
+}
+
+h2 img{
+    float: right;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+body{
+    line-height: 17px;
+}
+
+.blue{
+    color:blue;
+}
+*{
+    font-weight: 400;
+}
+img{
+    width:360px;
+    height:auto;
+}
+header img{
+    height:74%; 
+    width:57%;
+}
+.small{
+    width:120px;
+    height:auto;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
+.medium{
+    width:180px;
+    height:auto;
+}
+body{
+    margin-right:50px;
+}

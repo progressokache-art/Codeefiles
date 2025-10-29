@@ -1,0 +1,15 @@
+*{
+    background-image:url(../images/wallpaper.jpg);
+   font-family: 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    font-size: 150%;
+}
+.size{
+    height:8%; 
+    width:23%;
+    border-radius: 3em;
+    float:left;
+    size:auto;
+}

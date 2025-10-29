@@ -1,0 +1,50 @@
+html {
+    min-height: 100vh;    
+background-color: #EFD6AC;
+}
+body {
+    background-color: #EFD6AC;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;    
+    font-family: Playfair Display, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+a:hover {
+    filter: brightness(50%);
+}
+header{
+    border:sold #183A37 4px
+}
